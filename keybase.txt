@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/be
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://benjaminedelman.com
+  * I am be (https://keybase.io/be) on keybase.
+  * I have a public key with fingerprint 7549 0776 C93F 5707 1C34  856C 9D4D 3501 4E36 89C6
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101119d09482237e6a5d6d86a4bc5e37edc6a70157792ea7af0550ef9db294b30040a",
+            "fingerprint": "75490776c93f57071c34856c9d4d35014e3689c6",
+            "host": "keybase.io",
+            "key_id": "9d4d35014e3689c6",
+            "kid": "0101119d09482237e6a5d6d86a4bc5e37edc6a70157792ea7af0550ef9db294b30040a",
+            "uid": "6c0c68796c885f462a8aa816ecc39400",
+            "username": "be"
+        },
+        "service": {
+            "hostname": "benjaminedelman.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1464154271,
+    "expire_in": 157680000,
+    "prev": "febb805a3cfb6df2fa0f065a6d2478a7265ba27a94a9648f579789bbd916ea16",
+    "seqno": 12,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.53
+Comment: https://keybase.io/crypto
+
+yMIpAnicrVJbSBVRFL03U1OITAR7JxOViciZuecxo0gfEmFBEZRJGdczM2euo96Z
+672jFWJPMBFDLAzzJymjh9qXKVGBrwKzMinpQ4ugsjKMxDAkepyR6qvPzs9h77PW
+2mvvswcWR3nivbdrxs8np+3N8A71NpV79m6RL1QKqq0fFjIrhRI2f7FSnUUcf4mp
+C5kCEIEoiooOFChLko8wTJGOdRlTqGqI8YSuYUqAiAhRJEYJNQBCgBmKrkoKVH0A
+QECFdMEwrQALh8Km5XBZgqACCMGa4jMQAUTUfFBGPNSh7kNAhMyHZUXDnFhkR1wG
+N6fSCMswbZ7jgX/e3j/w/9l3+bwc1oCGZaJgTZaRAbFEZUplETNN8ykQABcYYWGL
+BhlHq0yoShd4XGFqzB2p28PfN6uYBk2L6aw0SK0MzQ5ycihsO7Zml3JAkeOEMl2+
+czjkEg4y1f9byq+als7nyAkVLBwxbUvIFDlSc0xXW4QYighKREwX2KGQGWZ+00Ug
+gmXAj1uGVXBJg6mqDBD1aYaKdUMyKDAARhTrEiQyJRJGKpUIVSBVMJT5DylEVlRV
+V3jHVHSnHGFlls21Je6TBrhmxAxY1CkP89b7egoWerzxnpjoBe6CeeLjEv6s3brU
+2B9Z8N7s5OzZ6fzs4sRnLU+LR+t7x4fqjfXbY2bXbP7Ut396yZoDSTOXA0kz6MO2
+5hMXH8+wUk9rzsmplxtHg9U7p44+GahL3+M93jmcPfZWj+p8PfY931jc9nnlzcaq
+rlhvUlcwL9CQnNi0dDi3+879B7tWlHVVxXW9aKg8silWvLG/remSVvwwecOjmJ/j
+O7IK3yzquxuTcrPly/LahKX7Gr6mDj6fm1g4vHqiNac2L7rXmy+jrXkpuawZ2oUd
+q8z23QnvljsVq29FfzpT0u+kNJ77VtcxPf1l8tpIDaiZG2lcFv9x8NrB6xPvg68G
+1p7qbi+6UpB2Vak+/Sqnp997JNh6zPMLdMM//Q==
+=wvub
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/be
+
+==================================================================
