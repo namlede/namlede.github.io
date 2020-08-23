@@ -1,0 +1,24 @@
+---
+layout: page
+---
+
+<ul class="archive-list">
+  {% for post in site.posts %}
+  <p><span style="color:grey"><time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+    {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+    {{ post.date | date: date_format }}
+  </time>
+  {%- if post.author -%}
+    • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ post.author }}</span></span>
+  {%- endif -%}
+  </span>
+  &nbsp;
+  <a class="archive-title" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></p>
+  <div class="excerpt">
+    {{ post.excerpt | strip_footnotes }}
+  </div>
+  <hr>
+  <!-- <p class="more"><a href="{{ post.url | relative_url }}">&ndash; MORE &ndash;</a></p> -->
+  {% endfor %}
+</ul>
+{%- include footer.html -%}

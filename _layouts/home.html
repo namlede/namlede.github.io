@@ -1,0 +1,34 @@
+---
+layout: default
+---
+
+<img id="headshot" alt="me" src="/assets/guitar.jpg">
+{{ content }}
+
+<small> bedelman@g.harvard.edu | <a href=https://scholar.google.com/citations?user=mQSj2C0AAAAJ&hl=en>Google Scholar</a> | he, they</small>
+
+<h2>Publications</h2>
+<ul class="publications">
+{% for item in site.data.pubs %}
+    <li>
+        <strong><a href="{{ item.link }}">
+        {{ item.title }}
+        </a></strong><br>
+        with {{ item.coauthors}}<br>
+        <em>{{ item.venue }}</em>
+    </li>
+  {% endfor %}
+</ul>
+
+<h2>Miscellaneae</h2>
+<ul>
+    <li>
+        <a href="https://windowsontheory.org/2018/12/20/quantum-hamiltonian-complexity/">Guest blog post on quantum Hamiltonian complexity</a>
+    </li>
+    <li>
+        <a href="/assets/thesis.pdf">Undergraduate Senior Thesis</a>
+    </li>
+    <li>
+        <a href="/assets/money.pdf">Quantum money for knot theorists</a>
+    </li>
+</ul>

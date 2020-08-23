@@ -1,0 +1,19 @@
+- title: Causal Strategic Linear Regression
+  coauthors: Yonadav Shavit and Brian Axelrod
+  venue: ICML 2020
+  link: https://proceedings.icml.cc/book/2020/hash/92dfa194391a59dc65b88b704599dbd6
+
+- title: The Multiplayer Colonel Blotto Game
+  coauthors: Enric Boix-Adserà and Siddhartha Jayanti
+  venue: EC 2020
+  link: https://arxiv.org/abs/2002.05240
+
+- title: SGD on Neural Networks Learns Functions of Increasing Complexity
+  coauthors: Preetum Nakkiran, Gal Kaplun, Dimitris Kalimeris, Tristan Yang, Fred Zhang, and Boaz Barak
+  venue:  NeurIPS 2019 (Spotlight)
+  link: https://papers.nips.cc/paper/8609-sgd-on-neural-networks-learns-functions-of-increasing-complexity
+
+- title: Matrix Rigidity and the Croot-Lev-Pach Lemma
+  coauthors: Zeev Dvir
+  venue: Theory of Computing, 2019
+  link: http://dx.doi.org/10.4086/toc.2019.v015a008
