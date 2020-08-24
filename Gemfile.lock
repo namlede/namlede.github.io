@@ -254,10 +254,9 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  github-pages
-  jekyll (~> 3.9.0)
+  github-pages (~> 207)
   jekyll-archives
-  jekyll-feed (~> 0.6)
+  jekyll-feed (~> 0.13.0)
   tzinfo-data
 
 BUNDLED WITH
