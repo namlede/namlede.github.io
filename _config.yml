@@ -16,7 +16,7 @@
 title: Ben Edelman
 email: bedelman@g.harvard.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  A waste of spacetime.
+  Ben Edelman's homepage!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
