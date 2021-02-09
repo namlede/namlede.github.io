@@ -33,8 +33,16 @@ h2 {
   margin-bottom: .875em;
 }
 
+h3 {
+  font-size: 1.3em;
+}
+
 .rightside {
   padding: 0 8px;
+}
+
+.centerdiv {
+  padding: 0 8px
 }
 
 .page-content {
@@ -97,91 +105,14 @@ nav {
   display: none;
 }
 
-@media only screen and (min-width: 1024px) {
-  .looper {
-    display: block;
-  }
-
-  body {
-    font-family: 'EB Garamond', serif;
-    font-size: 22px;
-    line-height: 1.5em;
-  }
-
-  nav {
-    font-size: 1em;
-  }
-
-  h1 {
-    font-size: 1.5em;
-  }
-
-  h2 {
-    font-size: 1.4em;
-  }
-
-  .container {
-    width: 924px;
-    margin: 0 auto;
-    padding-top: 20px;
-  }
-
-  .sidebar {
-    text-align: left;
-    float: left;
-    width: 25%;
-    background-color: inherit;
-    color: black;
-  }
-
-  .rightside {
-    padding: 0;
-    width: 75%;
-    float: left;
-  }
-
-  .menu {
-    max-width: 300px;
-    line-height: 3rem;
-    border: none;
-  }
-
-  .menu li {
-    display: block;
-    margin: 15px 0;
-  }
-
-  .menu li:first-child {
-    margin: 15px 0;
-  }
-
-  .menu li:last-child {
-    margin: 15px 0;
-  }
-
-
-  .author {
-    display: block;
-    margin: 20px auto;
-  }
+.post-title {
+  width: 800px;
+  max-width: 100%;
+  margin-top: 10px;
+  font-weight: normal;
+  text-align: center;
+  line-height: 2rem;
 }
-
-@media only screen and (min-width: 1280px) {
-  .container {
-    width: 90%;
-  }
-
-  .sidebar {
-    width: 20%;
-  }
-
-  .rightside {
-    width: 60%;
-    margin: 0 auto;
-  }
-}
-
-
 
 .sidebar a {
   color: inherit;
@@ -193,14 +124,6 @@ nav {
 
 .head-img {
   max-width: 100%;
-}
-
-.post-title {
-  width: 800px;
-  max-width: 100%;
-  margin-top: 10px;
-  font-weight: normal;
-  text-align: center;
 }
 
 .post-title a {
@@ -268,6 +191,11 @@ sup {
 
 .footnotes {
   border-top: solid 1px grey;
+  font-size: 0.9em;
+}
+
+.footnotes ol {
+  padding-left: 1em;
 }
 
 .archive-list {
@@ -294,4 +222,102 @@ hr {
 }
 .post-nav-next {
     text-align: right;
+}
+
+@media only screen and (min-width: 1024px) {
+  .looper {
+    display: block;
+  }
+
+  body {
+    font-family: 'EB Garamond', serif;
+    font-size: 22px;
+    line-height: 1.5em;
+  }
+
+  nav {
+    font-size: 1em;
+  }
+
+  h1 {
+    font-size: 1.5em;
+  }
+
+  .post-title {
+    line-height: 3rem;
+  }
+
+  h2 {
+    font-size: 1.4em;
+  }
+
+  .container {
+    width: 924px;
+    margin: 0 auto;
+    padding-top: 20px;
+  }
+
+  .sidebar {
+    text-align: left;
+    float: left;
+    width: 25%;
+    background-color: inherit;
+    color: black;
+  }
+
+  .rightside {
+    padding: 0;
+    width: 75%;
+    float: left;
+  }
+
+  .centerdiv {
+    width: 75%;
+    margin: 0 auto;
+  }
+
+  .menu {
+    max-width: 300px;
+    line-height: 3rem;
+    border: none;
+  }
+
+  .menu li {
+    display: block;
+    margin: 15px 0;
+  }
+
+  .menu li:first-child {
+    margin: 15px 0;
+  }
+
+  .menu li:last-child {
+    margin: 15px 0;
+  }
+
+
+  .author {
+    display: block;
+    margin: 20px auto;
+  }
+}
+
+@media only screen and (min-width: 1280px) {
+  .container {
+    width: 90%;
+  }
+
+  .sidebar {
+    width: 20%;
+  }
+
+  .rightside {
+    width: 60%;
+    margin: 0 auto;
+  }
+
+  // .centerdiv {
+  //   width: 60%;
+  // }
+  
 }
