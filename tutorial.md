@@ -8,7 +8,7 @@ title: FAccT tutorial
 
 ### [FAccT 2021](https://facctconference.org/2021/index.html) Tutorial -- March 4th
 {: style="text-align: center;"}
-### [Ben Edelman](index.html), [Chara Podimata](https://www.charapodimata.com/), and [Yonadav Shavit](https://www.charapodimata.com/)
+### [Ben Edelman](index.html), [Chara Podimata](https://www.charapodimata.com/), and [Yonadav Shavit](https://yonadavshavit.com//)
 {: style="text-align: center;"}
 ---
 
