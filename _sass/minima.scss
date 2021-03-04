@@ -224,6 +224,17 @@ hr {
     text-align: right;
 }
 
+.button {
+  color: #0867ff;
+  padding: 0 3em;
+  border: 1px solid #0867ff;
+  border-radius: 10px;
+}
+
+.button:hover {
+  text-decoration: none;
+}
+
 @media only screen and (min-width: 1024px) {
   .looper {
     display: block;

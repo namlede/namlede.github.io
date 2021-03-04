@@ -12,6 +12,11 @@ title: FAccT tutorial
 {: style="text-align: center;"}
 ### [Benjamin Edelman](index.html), [Chara Podimata](https://www.charapodimata.com/), and [Yonadav Shavit](https://yonadavshavit.com)
 {: style="text-align: center;"}
+
+### <a href="/assets/FAccT-tutorial-slides.pdf" class="button">Slides</a>
+{: style="text-align: center;"}
+
+
 ---
 
 ## Motivation

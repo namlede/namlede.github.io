@@ -17,7 +17,7 @@ I'm interested in theoretical computer science broadly. In particular, I study t
 
 
 ## News
-[Chara Podimata](https://www.charapodimata.com/), [Yo Shavit](https://yonadavshavit.com/), and I are organizing a tutorial at [FAccT 2021](https://facctconference.org/2021/acceptedtuts.html) called **[How to Achieve Both Transparency and Accuracy in Predictive Decision Making: An Introduction to Strategic Prediction](tutorial.html)**!
+[Chara Podimata](https://www.charapodimata.com/), [Yo Shavit](https://yonadavshavit.com/), and I organized a tutorial at [FAccT 2021](https://facctconference.org/2021/acceptedtuts.html) called **[How to Achieve Both Transparency and Accuracy in Predictive Decision Making: An Introduction to Strategic Prediction](tutorial.html)**!
 
 ## Publications
 {% for item in site.data.pubs %}
