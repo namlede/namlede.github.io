@@ -13,7 +13,7 @@ title: FAccT tutorial
 ### [Benjamin Edelman](index.html), [Chara Podimata](https://www.charapodimata.com/), and [Yonadav Shavit](https://yonadavshavit.com)
 {: style="text-align: center;"}
 
-### <a href="/assets/FAccT-tutorial-slides.pdf" class="button">Slides</a>
+### <a href="/assets/FAccT-tutorial-slides.pdf" class="button">Slides</a> <a href="https://youtu.be/iRhzmkmjgYo?t=92" class="button">Video</a>
 {: style="text-align: center;"}
 
 
@@ -45,7 +45,10 @@ to receive a better decision, is a property that benefits the individual but ult
 
 ## Part 3: Causal Perspective
 
-In Session 3, we focus on the emerging literature on *causal* strategic learning. Prior work assumed that when an agent strategically alters their features, the outcome variable (i.e., the prediction's target) is unaffected: their manipulation is pure gaming. In contrast, a cluster of new papers considers the possibility that agents' strategic altering can cause genuine improvement in their true labels, which also benefits the decision-maker. For example, if an agent reduces their debt-to-income ratio to improve their credit score, they truly become less likely to default, and thus increase the profits of their lender. In this context, new objectives become natural. We give a taxonomy of these objectives ([Shavit, Edelman, Axelrod '20](https://arxiv.org/pdf/2002.10066.pdf)) and use it as a scaffolding for this part of the tutorial. In particular, we highlight papers that optimize for *model accuracy* ([Perdomo, Zrnic, Mendler-Dünner, Hardt '20](https://arxiv.org/pdf/2002.06673.pdf)), *improvement in agent outcomes* ([Kleinberg, Raghavan '19](https://arxiv.org/pdf/1807.05307.pdf), [Miller, Milli, Hardt '20](http://proceedings.mlr.press/v119/miller20b/miller20b-supp.pdf), [Haghtalab, Immorlica, Lucier, Wang '20](https://arxiv.org/pdf/2011.01956.pdf)), and *causal discovery* ([Bechavod, Ligett, Wu, Ziani '20](https://arxiv.org/pdf/2002.07024.pdf)). We touch on the connections with principal-agent problems from economics ([Salanie '05](https://www.google.com/books/edition/The_Economics_of_Contracts_second_editio/ySk3AgAAQBAJ)), and we conclude with open questions for scholars of different fields.
+In Session 3, we focus on the emerging literature on *causal* strategic learning. Prior work assumed that when an agent strategically alters their features, the outcome variable (i.e., the prediction's target) is unaffected: their manipulation is pure gaming. In contrast, a cluster of new papers considers the possibility that agents' strategic altering can cause genuine improvement in their true labels, which also benefits the decision-maker. For example, if an agent reduces their debt-to-income ratio to improve their credit score, they truly become less likely to default, and thus increase the profits of their lender. In this context, new objectives become natural. We give a taxonomy of these objectives ([Shavit, Edelman, Axelrod '20](https://arxiv.org/pdf/2002.10066.pdf)) and use it as a scaffolding for this part of the tutorial. In particular, we highlight papers that optimize for *model accuracy* ([Perdomo, Zrnic, Mendler-Dünner, Hardt '20](https://arxiv.org/pdf/2002.06673.pdf)), *improvement in agent outcomes* ([Kleinberg, Raghavan '19](https://arxiv.org/pdf/1807.05307.pdf), [Miller, Milli, Hardt '20](http://proceedings.mlr.press/v119/miller20b/miller20b-supp.pdf), [Haghtalab, Immorlica, Lucier, Wang '20](https://arxiv.org/pdf/2011.01956.pdf)), and *causal discovery* ([Bechavod, Ligett, Wu, Ziani '20](https://arxiv.org/pdf/2002.07024.pdf)).
+
+<!---We touch on the connections with principal-agent problems from economics ([Salanie '05](https://www.google.com/books/edition/The_Economics_of_Contracts_second_editio/ySk3AgAAQBAJ)), and we conclude with open questions for scholars of different fields.-->
+
 
 ## Organizers’ Bios
 
