@@ -28,6 +28,13 @@ with {{ item.coauthors }} <br>
 *{{ item.venue }}*
 {% endfor %}
 
+## Teaching
+
+[Spring 2021] Teaching fellow for **CS 229br: Biology and Complexity** (taught by Leslie Valiant)
+
+[Spring 2020] Teaching fellow for **CS 228: Computational Learning Theory** (taught by Leslie Valiant)
+
+
 ## Miscellaneae
 
 - [Undergraduate Senior Thesis](/assets/thesis.pdf)
