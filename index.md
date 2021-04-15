@@ -11,7 +11,7 @@ title: Home
 
 I'm a third year PhD student in Harvard's [Theory of Computation](https://toc.seas.harvard.edu/) and [ML Theory](https://mltheory.org/) groups. I'm advised by [Leslie Valiant](http://people.seas.harvard.edu/~valiant/) and supported by an NSF Graduate Research Fellowship. Previously, I undergraduated in math at Princeton.
 
-I'm interested in theoretical computer science broadly. In particular, I study the interplay between algorithms, learning, and strategic behavior.
+The world is teeming with interacting agents who need to efficiently make predictions in pursuit of conflicting goals. I study the resulting interplay between algorithms, learning, and strategic behavior. I'm also interested in theoretical computer science broadly.
 
 <small> bedelman@g.harvard.edu | [Google Scholar](https://scholar.google.com/citations?user=mQSj2C0AAAAJ&hl=en) | he/him </small>
 
