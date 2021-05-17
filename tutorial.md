@@ -6,14 +6,14 @@ title: FAccT tutorial
 # How to Achieve Both Transparency and Accuracy in Predictive Decision Making:<br>**An Introduction to Strategic Prediction**
 {: class="post-title"}
 
-### [FAccT 2021](https://facctconference.org/2021/index.html) Tutorial
+[FAccT 2021](https://facctconference.org/2021/index.html) Tutorial
 {: style="text-align: center;"}
-### Thu March 4th, 3:30 - 5:00pm ET
+Thu March 4th, 3:30 - 5:00pm ET
 {: style="text-align: center;"}
-### [Benjamin Edelman](index.html), [Chara Podimata](https://www.charapodimata.com/), and [Yonadav Shavit](https://yonadavshavit.com)
+[Benjamin Edelman](index.html), [Chara Podimata](https://www.charapodimata.com/), and [Yonadav Shavit](https://yonadavshavit.com)
 {: style="text-align: center;"}
 
-### <a href="/assets/FAccT-tutorial-slides.pdf" class="button">Slides</a> <a href="https://youtu.be/iRhzmkmjgYo?t=92" class="button">Video</a>
+ <a href="/assets/FAccT-tutorial-slides.pdf" class="button">Slides</a> <a href="https://youtu.be/iRhzmkmjgYo?t=92" class="button">Video</a>
 {: style="text-align: center;"}
 
 

@@ -3,10 +3,10 @@ html {
 }
 
 body {
-  font-family: 'Merriweather', serif;
-  font-size: 15px;
+  font-family: 'Newsreader', serif;
+  font-size: 18px;
   color: #1a1a1a;
-  line-height: 1.8em;
+  line-height: 1.6em;
   margin: 0;
   // background-color: #f7f2e0;
 }
@@ -46,7 +46,7 @@ h3 {
 }
 
 .page-content {
-  max-width: 30em;
+  max-width: 36em;
   margin: 0 auto;
 }
 
@@ -65,7 +65,7 @@ h3 {
 }
 
 .sidebar {
-  font-family: 'EB Garamond', serif;
+  // font-family: 'EB Garamond', serif;
   text-align: center;
   color: #333333;
   line-height: 1em;
@@ -243,9 +243,8 @@ hr {
   }
 
   body {
-    font-family: 'EB Garamond', serif;
-    font-size: 22px;
-    line-height: 1.5em;
+    font-family: 'Newsreader', serif;
+    font-size: 20px;
   }
 
   nav {
