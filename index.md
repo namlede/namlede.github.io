@@ -15,13 +15,12 @@ The world is teeming with interacting agents who need to efficiently make predic
 
 <small> bedelman@g.harvard.edu | [Google Scholar](https://scholar.google.com/citations?user=mQSj2C0AAAAJ&hl=en) | he/him </small>
 
-
 ## News
-<small>\[MAY 2021\]</small>&nbsp; Our paper on the Colonel Blotto Game was accepted to *Games and Economics Behavior*.
+<span>May 2021</span>{: class="date-brackets"} Our paper on the Colonel Blotto Game was accepted to *Games and Economics Behavior*.
 
-<small>\[APRIL 2021\]</small>&nbsp; I will be interning with the ML group at Microsoft Research NYC this summer, mentored by [Cyril Zhang](https://cyrilzhang.com/) and [Sham Kakade](https://homes.cs.washington.edu/~sham/).
+<span>April 2021</span>{: class="date-brackets"} I will be interning with the ML group at Microsoft Research NYC this summer, mentored by [Cyril Zhang](https://cyrilzhang.com/) and [Sham Kakade](https://homes.cs.washington.edu/~sham/).
 
-<small>\[MARCH 2021\]</small>&nbsp; [Chara Podimata](https://www.charapodimata.com/), [Yo Shavit](https://yonadavshavit.com/), and I organized a tutorial at [FAccT 2021](https://facctconference.org/2021/acceptedtuts.html) called **[How to Achieve Both Transparency and Accuracy in Predictive Decision Making: An Introduction to Strategic Prediction](tutorial.html)**.
+<span>March 2021</span>{: class="date-brackets"} [Chara Podimata](https://www.charapodimata.com/), [Yo Shavit](https://yonadavshavit.com/), and I organized a tutorial at [FAccT 2021](https://facctconference.org/2021/acceptedtuts.html) called **[How to Achieve Both Transparency and Accuracy in Predictive Decision Making: An Introduction to Strategic Prediction](tutorial.html)**.
 
 ## Publications
 {% for item in site.data.pubs %}
@@ -32,9 +31,9 @@ with {{ item.coauthors }} <br>
 
 ## Teaching
 
-[Spring 2021] Teaching fellow for **CS 229br: Biology and Complexity** (taught by Leslie Valiant)
+<span>Spring 2021</span>{: class="date-brackets"} Teaching fellow for **CS 229br: Biology and Complexity** (taught by Leslie Valiant)
 
-[Spring 2020] Teaching fellow for **CS 228: Computational Learning Theory** (taught by Leslie Valiant)
+<span>Spring 2020</span>{: class="date-brackets"} Teaching fellow for **CS 228: Computational Learning Theory** (taught by Leslie Valiant)
 
 
 ## Miscellaneae

@@ -118,6 +118,22 @@ nav {
   color: inherit;
 }
 
+.date-brackets {
+  margin-right: 0.5em;
+  font-size: smaller;
+  font-variant: small-caps;
+  color: grey;
+}
+
+.date-brackets::before {
+  content: "[";
+}
+
+.date-brackets::after {
+  content: "]";
+}
+
+
 // .site-title {
 //   font-style: italic;
 // }
