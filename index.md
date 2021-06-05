@@ -18,7 +18,7 @@ The world is teeming with interacting agents who need to efficiently make predic
 ## News
 <span>May 2021</span>{: class="date-brackets"} Our paper on the Colonel Blotto Game was accepted to *Games and Economics Behavior*.
 
-<span>April 2021</span>{: class="date-brackets"} I will be interning with the ML group at Microsoft Research NYC this summer, mentored by [Cyril Zhang](https://cyrilzhang.com/) and [Sham Kakade](https://homes.cs.washington.edu/~sham/).
+<span>April 2021</span>{: class="date-brackets"} I am interning with the ML group at Microsoft Research NYC this summer, mentored by [Cyril Zhang](https://cyrilzhang.com/) and [Sham Kakade](https://homes.cs.washington.edu/~sham/).
 
 <span>March 2021</span>{: class="date-brackets"} [Chara Podimata](https://www.charapodimata.com/), [Yo Shavit](https://yonadavshavit.com/), and I organized a tutorial at [FAccT 2021](https://facctconference.org/2021/acceptedtuts.html) called **[How to Achieve Both Transparency and Accuracy in Predictive Decision Making: An Introduction to Strategic Prediction](tutorial.html)**.
 
