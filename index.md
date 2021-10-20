@@ -9,9 +9,9 @@ title: Home
 ![me](/assets/guitar.jpg)
 {: id="headshot"}
 
-I'm a third year PhD student in Harvard's [Theory of Computation](https://toc.seas.harvard.edu/) and [ML Theory](https://mltheory.org/) groups. I'm advised by [Leslie Valiant](http://people.seas.harvard.edu/~valiant/) and supported by an NSF Graduate Research Fellowship. Previously, I undergraduated in math at Princeton.
+I'm a fourth year PhD student in Harvard's [Theory of Computation](https://toc.seas.harvard.edu/) and [ML Theory](https://mltheory.org/) groups. I'm advised by [Leslie Valiant](http://people.seas.harvard.edu/~valiant/) and supported by an NSF Graduate Research Fellowship. Previously, I undergraduated in math at Princeton.
 
-The world is teeming with interacting agents who need to efficiently make predictions in pursuit of conflicting goals. I study the resulting interplay between algorithms, learning, and strategic behavior. I'm also interested in theoretical computer science broadly.
+In my research I study how deep learning works and how learning interacts with strategic behavior. I'm also interested in theoretical computer science broadly.
 
 <small> bedelman@g.harvard.edu | [Google Scholar](https://scholar.google.com/citations?user=mQSj2C0AAAAJ&hl=en) | he/him </small>
 
@@ -22,7 +22,7 @@ The world is teeming with interacting agents who need to efficiently make predic
 
 <span>March 2021</span>{: class="date-brackets"} [Chara Podimata](https://www.charapodimata.com/), [Yo Shavit](https://yonadavshavit.com/), and I organized a tutorial at [FAccT 2021](https://facctconference.org/2021/acceptedtuts.html) called **[How to Achieve Both Transparency and Accuracy in Predictive Decision Making: An Introduction to Strategic Prediction](tutorial.html)**.
 
-## Publications
+## Research
 {% for item in site.data.pubs %}
 **[{{ item.title }}]({{ item.link }})** <br>
 with {{ item.coauthors }} <br>

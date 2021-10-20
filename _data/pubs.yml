@@ -1,7 +1,12 @@
+- title: Inductive Biases and Variable Creation in Self-Attention Mechanisms
+  coauthors: Surbhi Goel, Sham Kakade, and Cyril Zhang
+  venue: Manuscript
+  link: https://arxiv.org/abs/2110.10090
+
 - title: The Multiplayer Colonel Blotto Game
   coauthors: Enric Boix-Adserà and Siddhartha Jayanti
   venue: Games and Economic Behavior (full version), EC 2020 (extended abstract)
-  link: https://www.sciencedirect.com/science/article/pii/S0899825621000592?dgcid=author
+  link: https://arxiv.org/abs/2002.05240
 
 - title: Causal Strategic Linear Regression
   coauthors: Yonadav Shavit and Brian Axelrod
