@@ -9,7 +9,7 @@ title: Home
 ![me](/assets/guitar.jpg)
 {: id="headshot"}
 
-I'm a fourth year PhD student in Harvard's [Theory of Computation](https://toc.seas.harvard.edu/) and [ML Theory](https://mltheory.org/) groups. I'm advised by [Leslie Valiant](http://people.seas.harvard.edu/~valiant/) and supported by an NSF Graduate Research Fellowship. Previously, I undergraduated in math at Princeton.
+I'm a fourth year PhD student in Harvard's [Theory of Computation](https://toc.seas.harvard.edu/) and [Machine Learning Foundations](https://mlfoundations.org/) groups. I'm advised by [Leslie Valiant](http://people.seas.harvard.edu/~valiant/) and supported by an NSF Graduate Research Fellowship. Previously, I undergraduated in math at Princeton.
 
 In my research I study how deep learning works and how learning interacts with strategic behavior. I'm also interested in theoretical computer science broadly.
 
