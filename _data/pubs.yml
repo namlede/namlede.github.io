@@ -1,6 +1,6 @@
 - title: "Hidden Progress in Deep Learning: SGD Learns Parities Near the Computational Limit"
   coauthors: Boaz Barak, Surbhi Goel, Sham Kakade, Eran Malach, and Cyril Zhang
-  venue: Manuscript
+  venue: NeurIPS 2022
   link: https://arxiv.org/abs/2207.08799
 
 - title: Inductive Biases and Variable Creation in Self-Attention Mechanisms
