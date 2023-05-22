@@ -16,7 +16,7 @@ My research is motivated by the following claims:
 - The shortest path to scientific understanding involves a blend of both theory and empirics, on both clean toy models and real messy systems.
 
 Some concrete questions that have guided my recent work include:
-- What is responsible for emergent capabilities in language models?
+- What is responsible for emergent capabilities during the course of neural network training?
 - What inductive biases do deep learning algorithms have, and why?
 - What happens when learning and incentives collide in multi-agent settings?
 
