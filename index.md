@@ -8,11 +8,11 @@ title: Home
 
 
 
-I'm a PhD student in Harvard's [Machine Learning Foundations](https://mlfoundations.org/) and [Theory of Computation](https://toc.seas.harvard.edu/) groups. I'm advised by [Sham Kakade](https://sham.seas.harvard.edu/) and [Leslie Valiant](http://people.seas.harvard.edu/~valiant/), and supported by an NSF Graduate Research Fellowship. Previously, I undergraduated in math at Princeton.
+I'm a PhD student in Harvard's [Machine Learning Foundations](https://mlfoundations.org/) and [Theory of Computation](https://toc.seas.harvard.edu/) groups. I'm advised by [Sham Kakade](https://sham.seas.harvard.edu/) and [Leslie Valiant](http://people.seas.harvard.edu/~valiant/), and supported by an NSF Graduate Research Fellowship. Previously, I undergraduated in math at Princeton. In summer 2021, I interned with the ML group at Microsoft Research NYC, where I had the pleasure of working with [Cyril Zhang](https://cyrilzhang.com/) and [Surbhi Goel](https://www.surbhigoel.com). 
 
 My research is motivated by the following claims:
 - If we understand AI systems better, we will have a better shot at making them safer and foreseeing future technological developments.
-- It is crucial to build understanding of cutting-edge methods, and _also_ for our insights to generalize across changes in algorithms and scale.
+- It is crucial to build understanding of cutting-edge methods, and for our insights to generalize across changes in algorithms and scale.
 - The shortest path to scientific understanding involves a blend of both theory and empirics, on both clean toy models and real messy systems.
 
 Some concrete questions that have guided my recent work include:
@@ -25,7 +25,7 @@ In the past, I've also worked on game theory and computational complexity theory
 <small> bedelman@g.harvard.edu | [Google Scholar](https://scholar.google.com/citations?user=mQSj2C0AAAAJ&hl=en) </small>
 
 ## News
-<span>April 2021</span>{: class="date-brackets"} I am interning with the ML group at Microsoft Research NYC this summer, mentored by [Cyril Zhang](https://cyrilzhang.com/) and [Sham Kakade](https://homes.cs.washington.edu/~sham/).
+<span>April 2021</span>{: class="date-brackets"} I am interning with the ML group at Microsoft Research NYC this summer, mentored by  and [Sham Kakade](https://homes.cs.washington.edu/~sham/).
 
 
 ## Research
@@ -44,27 +44,26 @@ Gave three lectures on "Mysteries of Generalization in Deep Learning"
 
 ## Tutorials
 **[How to Achieve Both Transparency and Accuracy in Predictive Decision Making: An Introduction to Strategic Prediction](tutorial.html)** <br>
-with Chara Podimata and Yonadav Shavit
-FAccT 2021
+with Chara Podimata and Yonadav Shavit <br>
+*FAccT 2021*
 
 ## Recent talks
 <span>February 2023</span>{: class="date-brackets"} [Studies in feature learning through the lens of sparse boolean functions](https://mpml.tecnico.ulisboa.pt/seminars?id=6910) <br>
 Seminar in Mathematics, Physics and Machine Learning, University of Lisbon
 
-<span>November 2022</span>{: class="date-brackets"} Hidden progress in deep learning
-MIT course [Statistical Learning Theory and Applications]{https://cbmm.mit.edu/9-520/syllabus}
+<span>November 2022</span>{: class="date-brackets"} Hidden progress in deep learning <br>
+MIT course [Statistical Learning Theory and Applications](https://cbmm.mit.edu/9-520/syllabus)
 
-<span>September 2022</span>{: class="date-brackets"} Sparse feature emergence in deep learning
+<span>September 2022</span>{: class="date-brackets"} Sparse feature emergence in deep learning <br>
 Alg-ml seminar, Princeton University
 
-<span>May 2022</span>{: class="date-brackets"} Towards demystifying the inductive bias of attention mechanisms
+<span>May 2022</span>{: class="date-brackets"} Towards demystifying the inductive bias of attention mechanisms <br>
 [Collaboration on the Theoretical Foundations of Deep Learning](https://deepfoundations.ai)
 
-<span>Feb 2022</span>{: class="date-brackets"} [Towards demystifying transformers & attention](https://cmsa.fas.harvard.edu/event/2-9-2022-new-technologies-in-mathematics-seminar/)
+<span>Feb 2022</span>{: class="date-brackets"} [Towards demystifying transformers & attention](https://cmsa.fas.harvard.edu/event/2-9-2022-new-technologies-in-mathematics-seminar/) <br>
 New Technologies in Mathematics Seminar, Harvard University Center of Mathematical Sciences and Applications
 
 ## Miscellaneae
-- [AI will change the world, but won’t take it over by playing "3-dimensional chess"](https://windowsontheory.org/2022/11/22/ai-will-change-the-world-but-wont-take-it-over-by-playing-3-dimensional-chess/), with Boaz Barak
-- [Undergraduate Senior Thesis](/assets/thesis.pdf)
-- [Guest blog post on quantum Hamiltonian complexity](https://windowsontheory.org/2018/12/20/quantum-hamiltonian-complexity/)
-- [Quantum money for knot theorists](/assets/money.pdf)
+- [AI will change the world, but won’t take it over by playing "3-dimensional chess"](https://windowsontheory.org/2022/11/22/ai-will-change-the-world-but-wont-take-it-over-by-playing-3-dimensional-chess/), blog post with Boaz Barak
+- [Undergraduate Senior Thesis](/assets/thesis.pdf) on arithmetic circuit complexity
+- Expositions of [quantum Hamiltonian complexity](https://windowsontheory.org/2018/12/20/quantum-hamiltonian-complexity/) and [quantum money for knot theorists](/assets/money.pdf)
