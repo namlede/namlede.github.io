@@ -1,26 +1,32 @@
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: default
 title: Home
 ---
 
-![me](/assets/guitar.jpg)
+![me](/assets/headshot.jpg)
 {: id="headshot"}
 
-I'm a PhD student in Harvard's [Theory of Computation](https://toc.seas.harvard.edu/) and [Machine Learning Foundations](https://mlfoundations.org/) groups. I'm advised by [Sham Kakade](https://sham.seas.harvard.edu/) and [Leslie Valiant](http://people.seas.harvard.edu/~valiant/), and supported by an NSF Graduate Research Fellowship. Previously, I undergraduated in math at Princeton.
 
-In my research I study how deep learning works and how learning interacts with strategic behavior. I'm also interested in theoretical computer science broadly.
 
-<small> bedelman@g.harvard.edu | [Google Scholar](https://scholar.google.com/citations?user=mQSj2C0AAAAJ&hl=en) | he/him </small>
+I'm a PhD student in Harvard's [Machine Learning Foundations](https://mlfoundations.org/) and [Theory of Computation](https://toc.seas.harvard.edu/) groups. I'm advised by [Sham Kakade](https://sham.seas.harvard.edu/) and [Leslie Valiant](http://people.seas.harvard.edu/~valiant/), and supported by an NSF Graduate Research Fellowship. Previously, I undergraduated in math at Princeton.
+
+My research is motivated by the following claims:
+- If we understand AI systems better, we will have a better shot at making them safer and foreseeing future technological developments.
+- It is crucial to build understanding of cutting-edge methods, and _also_ for our insights to generalize across changes in algorithms and scale.
+- The shortest path to scientific understanding involves a blend of both theory and empirics, on both clean toy models and real messy systems.
+
+Some concrete questions that have guided my recent work include:
+- What is responsible for emergent capabilities in language models?
+- What inductive biases do deep learning algorithms have, and why?
+- What happens when learning and incentives collide in multi-agent settings?
+
+In the past, I've also worked on game theory and computational complexity theory.
+
+<small> bedelman@g.harvard.edu | [Google Scholar](https://scholar.google.com/citations?user=mQSj2C0AAAAJ&hl=en) </small>
 
 ## News
-<span>May 2021</span>{: class="date-brackets"} Our paper on the Colonel Blotto Game was accepted to *Games and Economics Behavior*.
-
 <span>April 2021</span>{: class="date-brackets"} I am interning with the ML group at Microsoft Research NYC this summer, mentored by [Cyril Zhang](https://cyrilzhang.com/) and [Sham Kakade](https://homes.cs.washington.edu/~sham/).
 
-<span>March 2021</span>{: class="date-brackets"} [Chara Podimata](https://www.charapodimata.com/), [Yo Shavit](https://yonadavshavit.com/), and I organized a tutorial at [FAccT 2021](https://facctconference.org/2021/acceptedtuts.html) called **[How to Achieve Both Transparency and Accuracy in Predictive Decision Making: An Introduction to Strategic Prediction](tutorial.html)**.
 
 ## Research
 {% for item in site.data.pubs %}
@@ -30,14 +36,35 @@ with {{ item.coauthors }} <br>
 {% endfor %}
 
 ## Teaching
+<span>Spring 2021</span>{: class="date-brackets"} Teaching fellow for **CS 229br: Biology and Complexity** <br>
+ Received Certificate of Distinction in Teaching from Harvard University
 
-<span>Spring 2021</span>{: class="date-brackets"} Teaching fellow for **CS 229br: Biology and Complexity** (taught by Leslie Valiant)
+<span>Spring 2020</span>{: class="date-brackets"} Teaching fellow for **CS 228: Computational Learning Theory** <br>
+Gave three lectures on "Mysteries of Generalization in Deep Learning"
 
-<span>Spring 2020</span>{: class="date-brackets"} Teaching fellow for **CS 228: Computational Learning Theory** (taught by Leslie Valiant)
+## Tutorials
+**[How to Achieve Both Transparency and Accuracy in Predictive Decision Making: An Introduction to Strategic Prediction](tutorial.html)** <br>
+with Chara Podimata and Yonadav Shavit
+FAccT 2021
 
+## Recent talks
+<span>February 2023</span>{: class="date-brackets"} [Studies in feature learning through the lens of sparse boolean functions](https://mpml.tecnico.ulisboa.pt/seminars?id=6910) <br>
+Seminar in Mathematics, Physics and Machine Learning, University of Lisbon
+
+<span>November 2022</span>{: class="date-brackets"} Hidden progress in deep learning
+MIT course [Statistical Learning Theory and Applications]{https://cbmm.mit.edu/9-520/syllabus}
+
+<span>September 2022</span>{: class="date-brackets"} Sparse feature emergence in deep learning
+Alg-ml seminar, Princeton University
+
+<span>May 2022</span>{: class="date-brackets"} Towards demystifying the inductive bias of attention mechanisms
+[Collaboration on the Theoretical Foundations of Deep Learning](https://deepfoundations.ai)
+
+<span>Feb 2022</span>{: class="date-brackets"} [Towards demystifying transformers & attention](https://cmsa.fas.harvard.edu/event/2-9-2022-new-technologies-in-mathematics-seminar/)
+New Technologies in Mathematics Seminar, Harvard University Center of Mathematical Sciences and Applications
 
 ## Miscellaneae
-
+- [AI will change the world, but won’t take it over by playing "3-dimensional chess"](https://windowsontheory.org/2022/11/22/ai-will-change-the-world-but-wont-take-it-over-by-playing-3-dimensional-chess/), with Boaz Barak
 - [Undergraduate Senior Thesis](/assets/thesis.pdf)
 - [Guest blog post on quantum Hamiltonian complexity](https://windowsontheory.org/2018/12/20/quantum-hamiltonian-complexity/)
 - [Quantum money for knot theorists](/assets/money.pdf)
