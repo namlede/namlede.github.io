@@ -52,7 +52,7 @@ with Chara Podimata and Yonadav Shavit <br>
 Seminar in Mathematics, Physics and Machine Learning, University of Lisbon
 
 <span>November 2022</span>{: class="date-brackets"} Hidden progress in deep learning <br>
-MIT course [Statistical Learning Theory and Applications](https://cbmm.mit.edu/9-520/syllabus)
+[Statistical Learning Theory and Applications](https://cbmm.mit.edu/9-520/syllabus), MIT course
 
 <span>September 2022</span>{: class="date-brackets"} Sparse feature emergence in deep learning <br>
 Alg-ml seminar, Princeton University
@@ -61,7 +61,7 @@ Alg-ml seminar, Princeton University
 [Collaboration on the Theoretical Foundations of Deep Learning](https://deepfoundations.ai)
 
 <span>Feb 2022</span>{: class="date-brackets"} [Towards demystifying transformers & attention](https://cmsa.fas.harvard.edu/event/2-9-2022-new-technologies-in-mathematics-seminar/) <br>
-New Technologies in Mathematics Seminar, Harvard University Center of Mathematical Sciences and Applications
+New Technologies in Mathematics Seminar, Harvard Center of Mathematical Sciences and Applications
 
 ## Miscellaneae
 - [AI will change the world, but won’t take it over by playing "3-dimensional chess"](https://windowsontheory.org/2022/11/22/ai-will-change-the-world-but-wont-take-it-over-by-playing-3-dimensional-chess/), blog post with Boaz Barak
