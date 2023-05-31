@@ -24,10 +24,6 @@ In the past, I've also worked on game theory and computational complexity theory
 
 <small> bedelman@g.harvard.edu | [Google Scholar](https://scholar.google.com/citations?user=mQSj2C0AAAAJ&hl=en) </small>
 
-## News
-<span>April 2021</span>{: class="date-brackets"} I am interning with the ML group at Microsoft Research NYC this summer, mentored by  and [Sham Kakade](https://homes.cs.washington.edu/~sham/).
-
-
 ## Research
 {% for item in site.data.pubs %}
 **[{{ item.title }}]({{ item.link }})** <br>
