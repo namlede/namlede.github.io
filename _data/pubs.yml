@@ -1,3 +1,8 @@
+- title: "Pareto Frontiers in Neural Feature Learning: Data, Compute, Width, and Luck"
+  coauthors: Surbhi Goel, Sham Kakade, Eran Malach, and Cyril Zhang
+  venue: Preprint
+  link: https://arxiv.org/pdf/2309.03800.pdf
+
 - title: "Hidden Progress in Deep Learning: SGD Learns Parities Near the Computational Limit"
   coauthors: Boaz Barak, Surbhi Goel, Sham Kakade, Eran Malach, and Cyril Zhang
   venue: NeurIPS 2022
