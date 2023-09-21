@@ -25,7 +25,7 @@
 
 - title: SGD on Neural Networks Learns Functions of Increasing Complexity
   coauthors: Preetum Nakkiran, Gal Kaplun, Dimitris Kalimeris, Tristan Yang, Fred Zhang, and Boaz Barak
-  venue:  NeurIPS 2019 (Spotlight)
+  venue:  NeurIPS 2019 (spotlight)
   link: https://papers.nips.cc/paper/8609-sgd-on-neural-networks-learns-functions-of-increasing-complexity
 
 - title: Matrix Rigidity and the Croot-Lev-Pach Lemma
