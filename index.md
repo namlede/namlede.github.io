@@ -8,17 +8,12 @@ title: Home
 
 
 
-I'm a PhD student in Harvard's [Machine Learning Foundations](https://mlfoundations.org/) and [Theory of Computation](https://toc.seas.harvard.edu/) groups. I'm advised by [Sham Kakade](https://sham.seas.harvard.edu/) and [Leslie Valiant](http://people.seas.harvard.edu/~valiant/), and supported by an NSF Graduate Research Fellowship. Previously, I undergraduated in math at Princeton. In summer 2021, I interned with the ML group at Microsoft Research NYC, where I had the pleasure of working with [Cyril Zhang](https://cyrilzhang.com/) and [Surbhi Goel](https://www.surbhigoel.com). 
+I'm a PhD student in Harvard's [Machine Learning Foundations](https://mlfoundations.org/) and [Theory of Computation](https://toc.seas.harvard.edu/) groups. I'm advised by [Sham Kakade](https://sham.seas.harvard.edu/) and [Leslie Valiant](http://people.seas.harvard.edu/~valiant/). Previously, I undergraduated in math at Princeton. In summer 2021, I interned with the ML group at Microsoft Research NYC, where I had the pleasure of working with [Cyril Zhang](https://cyrilzhang.com/) and [Surbhi Goel](https://www.surbhigoel.com). 
 
-My research is motivated by the following claims:
+My research, which is currently focused on the scientific study of deep learning, is motivated by the following claims:
 - If we understand AI systems better, we will have a better shot at making them safer and foreseeing future technological developments.
 - It is crucial to build understanding of cutting-edge methods, and for our insights to generalize across changes in algorithms and scale.
 - The shortest path to scientific understanding involves a blend of both theory and empirics, on both clean toy models and real messy systems.
-
-Some concrete questions that have guided my recent work include:
-- What is responsible for emergent capabilities during the course of neural network training?
-- What inductive biases do deep learning algorithms have, and why?
-- What happens when learning and incentives collide in multi-agent settings?
 
 In the past, I've also worked on game theory and computational complexity theory.
 
