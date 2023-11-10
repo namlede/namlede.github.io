@@ -20,11 +20,14 @@ In the past, I've also worked on game theory and computational complexity theory
 <small> bedelman@g.harvard.edu | [Google Scholar](https://scholar.google.com/citations?user=mQSj2C0AAAAJ&hl=en) </small>
 
 ## Research
+**[Watermarks in the Sand: Impossibility of Strong Watermarking for Generative Models](https://arxiv.org/abs/2311.04378)** <br>
+with Hanlin Zhang, Danilo Francati, Daniele Venturi, Giuseppe Ateniese, Boaz Barak <br>
+*preprint* | [Blog post](https://www.harvard.edu/kempner-institute/2023/11/09/watermarking-in-the-sand/)
+
 {% for item in site.data.pubs %}
 **[{{ item.title }}]({{ item.link }})** <br>
 with {{ item.coauthors }} <br>
 *{{ item.venue }}*
-{{ item.media}}
 {% endfor %}
 
 ## Teaching
