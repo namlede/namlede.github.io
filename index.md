@@ -24,6 +24,7 @@ In the past, I've also worked on game theory and computational complexity theory
 **[{{ item.title }}]({{ item.link }})** <br>
 with {{ item.coauthors }} <br>
 *{{ item.venue }}*
+{{ item.media}}
 {% endfor %}
 
 ## Teaching
