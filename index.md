@@ -20,8 +20,13 @@ In the past, I've also worked on game theory and computational complexity theory
 <small> bedelman@g.harvard.edu | [Google Scholar](https://scholar.google.com/citations?user=mQSj2C0AAAAJ&hl=en) </small>
 
 ## Research
+**[Feature emergence via margin maximization: case studies in algebraic tasks](https://arxiv.org/abs/2311.07568)** <br>
+with Depen Morwani, Costin-Andrei Oncescu, Rosie Zhao, and Sham Kakade <br>
+*preprint* | [Blog post](https://www.harvard.edu/kempner-institute/2023/11/14/where-do-features-come-from-a-story-of-sinusoids-and-inductive-biases/)
+
+
 **[Watermarks in the Sand: Impossibility of Strong Watermarking for Generative Models](https://arxiv.org/abs/2311.04378)** <br>
-with Hanlin Zhang, Danilo Francati, Daniele Venturi, Giuseppe Ateniese, Boaz Barak <br>
+with Hanlin Zhang, Danilo Francati, Daniele Venturi, Giuseppe Ateniese, and Boaz Barak <br>
 *preprint* | [Blog post](https://www.harvard.edu/kempner-institute/2023/11/09/watermarking-in-the-sand/)
 
 {% for item in site.data.pubs %}
