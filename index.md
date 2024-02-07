@@ -20,6 +20,10 @@ In the past, I've also worked on game theory and computational complexity theory
 <small> bedelman@g.harvard.edu | [Google Scholar](https://scholar.google.com/citations?user=mQSj2C0AAAAJ&hl=en) </small>
 
 ## Research
+**[Distinguishing the Knowable from the Unknowable with Language Models](https://arxiv.org/abs/2402.03563)** <br>
+with Gustaf Ahdritz, Tian Qin, Nikhil Vyas, and Boaz Barak <br>
+*preprint*
+
 **[Watermarks in the Sand: Impossibility of Strong Watermarking for Generative Models](https://arxiv.org/abs/2311.04378)** <br>
 with Hanlin Zhang, Danilo Francati, Daniele Venturi, Giuseppe Ateniese, and Boaz Barak <br>
 *preprint* | [Blog post](https://www.harvard.edu/kempner-institute/2023/11/09/watermarking-in-the-sand/)
@@ -47,6 +51,10 @@ with Chara Podimata and Yonadav Shavit <br>
 *FAccT 2021*
 
 ## Recent talks
+<span>January 2024</span>{: class="date-brackets"} [Watermarks in the Sand: Impossibility of Strong Watermarking for Generative Models](https://nycryptoday.wordpress.com/2023/12/) <br>
+[NYC Crypto Day](https://nycryptoday.wordpress.com/)
+
+
 <span>February 2023</span>{: class="date-brackets"} [Studies in feature learning through the lens of sparse boolean functions](https://mpml.tecnico.ulisboa.pt/seminars?id=6910) <br>
 Seminar in Mathematics, Physics and Machine Learning, University of Lisbon
 
