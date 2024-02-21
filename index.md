@@ -20,6 +20,11 @@ In the past, I've also worked on game theory and computational complexity theory
 <small> bedelman@g.harvard.edu | [Google Scholar](https://scholar.google.com/citations?user=mQSj2C0AAAAJ&hl=en) </small>
 
 ## Research
+**[The Evolution of Statistical Induction Heads: In-Context Learning Markov Chains](https://arxiv.org/abs/2402.11004)** <br>
+with Ezra Edelman, Surbhi Goel, Eran Malach, and Nikolaos Tsilivis <br>
+*preprint*
+
+
 **[Distinguishing the Knowable from the Unknowable with Language Models](https://arxiv.org/abs/2402.03563)** <br>
 with Gustaf Ahdritz, Tian Qin, Nikhil Vyas, and Boaz Barak <br>
 *preprint*
