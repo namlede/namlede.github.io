@@ -51,7 +51,7 @@ with Chara Podimata and Yonadav Shavit <br>
 *FAccT 2021*
 
 ## Recent talks
-<span>January 2024</span>{: class="date-brackets"} [Watermarks in the Sand: Impossibility of Strong Watermarking for Generative Models](https://nycryptoday.wordpress.com/2023/12/) <br>
+<span>January 2024</span>{: class="date-brackets"} Watermarks in the Sand: Impossibility of Strong Watermarking for Generative Models <br>
 [NYC Crypto Day](https://nycryptoday.wordpress.com/)
 
 
