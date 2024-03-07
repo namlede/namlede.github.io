@@ -22,7 +22,7 @@ In the past, I've also worked on game theory and computational complexity theory
 ## Research
 **[The Evolution of Statistical Induction Heads: In-Context Learning Markov Chains](https://arxiv.org/abs/2402.11004)** <br>
 with Ezra Edelman, Surbhi Goel, Eran Malach, and Nikolaos Tsilivis <br>
-*preprint*
+*preprint* | [Blog post](https://unprovenalgos.github.io/statistical-induction-heads)
 
 
 **[Distinguishing the Knowable from the Unknowable with Language Models](https://arxiv.org/abs/2402.03563)** <br>
