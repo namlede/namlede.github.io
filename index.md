@@ -31,7 +31,7 @@ with Gustaf Ahdritz, Tian Qin, Nikhil Vyas, and Boaz Barak <br>
 
 **[Watermarks in the Sand: Impossibility of Strong Watermarking for Generative Models](https://arxiv.org/abs/2311.04378)** <br>
 with Hanlin Zhang, Danilo Francati, Daniele Venturi, Giuseppe Ateniese, and Boaz Barak <br>
-*preprint* | [Blog post](https://www.harvard.edu/kempner-institute/2023/11/09/watermarking-in-the-sand/)
+Secure and Trustworthy LLMs Workshop @ ICLR 2024 | [Blog post](https://www.harvard.edu/kempner-institute/2023/11/09/watermarking-in-the-sand/)
 
 **[Feature emergence via margin maximization: case studies in algebraic tasks](https://arxiv.org/abs/2311.07568)** <br>
 with Depen Morwani, Costin-Andrei Oncescu, Rosie Zhao, and Sham Kakade <br>
