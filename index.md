@@ -20,6 +20,11 @@ In the past, I've also worked on game theory and computational complexity theory
 <small> bedelman@g.harvard.edu | [Google Scholar](https://scholar.google.com/citations?user=mQSj2C0AAAAJ&hl=en) </small>
 
 ## Research
+
+**[Foundational Challenges in Assuring Alignment and Safety of Large Language Models](https://arxiv.org/abs/2404.09932)** <br>
+with Usman Anwar, David Krueger, and 35 others <br>
+*preprint* | [Webpage](https://llm-safety-challenges.github.io/)
+
 **[The Evolution of Statistical Induction Heads: In-Context Learning Markov Chains](https://arxiv.org/abs/2402.11004)** <br>
 with Ezra Edelman, Surbhi Goel, Eran Malach, and Nikolaos Tsilivis <br>
 *preprint* | [Blog post](https://unprovenalgos.github.io/statistical-induction-heads)
