@@ -38,7 +38,7 @@ with Gustaf Ahdritz, Tian Qin, Nikhil Vyas, and Boaz Barak <br>
 with Hanlin Zhang, Danilo Francati, Daniele Venturi, Giuseppe Ateniese, and Boaz Barak <br>
 Secure and Trustworthy LLMs Workshop @ ICLR 2024 | [Blog post](https://kempnerinstitute.harvard.edu/research/deeper-learning/watermarking-in-the-sand/)
 
-**[Feature emergence via margin maximization: case studies in algebraic tasks](https://arxiv.org/abs/2311.07568)** <br>
+**[Feature Emergence via Margin Maximization: Case Studies in Algebraic Tasks](https://arxiv.org/abs/2311.07568)** <br>
 with Depen Morwani, Costin-Andrei Oncescu, Rosie Zhao, and Sham Kakade <br>
 *ICLR 2024 (spotlight)* | [Blog post](https://kempnerinstitute.harvard.edu/research/deeper-learning/where-do-features-come-from/)
 
