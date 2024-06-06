@@ -8,7 +8,7 @@ title: Home
 
 
 
-I will be joining Princeton University as a postdoctoral research fellow jointly affiliated with [Princeton Language and Intelligence (PLI)](https://pli.princeton.edu/) and the [Center for Technology Policy (CITP)](https://citp.princeton.edu/). This spring, I completed my PhD at Harvard, as a member of the [Machine Learning Foundations](https://mlfoundations.org/) and [Theory of Computation](https://toc.seas.harvard.edu/) groups. I was advised by [Sham Kakade](https://sham.seas.harvard.edu/) and [Leslie Valiant](http://people.seas.harvard.edu/~valiant/), and received a NSF Graduate Research Fellowship. Previously, I undergraduated in math at Princeton. In summer 2021, I interned with the ML group at Microsoft Research NYC, where I worked with [Cyril Zhang](https://cyrilzhang.com/) and [Surbhi Goel](https://www.surbhigoel.com). 
+In the coming academic year, I will be joining Princeton University as a postdoctoral research fellow jointly affiliated with [Princeton Language and Intelligence (PLI)](https://pli.princeton.edu/) and the [Center for Technology Policy (CITP)](https://citp.princeton.edu/). This spring, I completed my PhD at Harvard, as a member of the [Machine Learning Foundations](https://mlfoundations.org/) and [Theory of Computation](https://toc.seas.harvard.edu/) groups. I was advised by [Sham Kakade](https://sham.seas.harvard.edu/) and [Leslie Valiant](http://people.seas.harvard.edu/~valiant/), and received a NSF Graduate Research Fellowship.  In summer 2021, I interned with the ML group at Microsoft Research NYC, where I worked with [Cyril Zhang](https://cyrilzhang.com/) and [Surbhi Goel](https://www.surbhigoel.com). Previously, I undergraduated in math at Princeton.
 
 My research, which is currently focused on the scientific study of deep learning, is motivated by the following claims:
 - If we understand AI systems better, we will have a better shot at making them safer and foreseeing future technological developments.
@@ -36,7 +36,7 @@ with Gustaf Ahdritz, Tian Qin, Nikhil Vyas, and Boaz Barak <br>
 
 **[Watermarks in the Sand: Impossibility of Strong Watermarking for Generative Models](https://arxiv.org/abs/2311.04378)** <br>
 with Hanlin Zhang, Danilo Francati, Daniele Venturi, Giuseppe Ateniese, and Boaz Barak <br>
-*ICML 2024, &amp; Secure and Trustworthy LLMs Workshop @ ICLR 2024 | [Blog post](https://kempnerinstitute.harvard.edu/research/deeper-learning/watermarking-in-the-sand/)
+*ICML 2024, &amp; Secure and Trustworthy LLMs Workshop @ ICLR 2024* | [Blog post](https://kempnerinstitute.harvard.edu/research/deeper-learning/watermarking-in-the-sand/)
 
 **[Feature Emergence via Margin Maximization: Case Studies in Algebraic Tasks](https://arxiv.org/abs/2311.07568)** <br>
 with Depen Morwani, Costin-Andrei Oncescu, Rosie Zhao, and Sham Kakade <br>
