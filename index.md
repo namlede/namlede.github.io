@@ -36,7 +36,7 @@ with Gustaf Ahdritz, Tian Qin, Nikhil Vyas, and Boaz Barak <br>
 
 **[Watermarks in the Sand: Impossibility of Strong Watermarking for Generative Models](https://arxiv.org/abs/2311.04378)** <br>
 with Hanlin Zhang, Danilo Francati, Daniele Venturi, Giuseppe Ateniese, and Boaz Barak <br>
-*ICML 2024, &amp; Secure and Trustworthy LLMs Workshop @ ICLR 2024* | [Blog post](https://kempnerinstitute.harvard.edu/research/deeper-learning/watermarking-in-the-sand/)
+*ICML 2024, and Secure &amp; Trustworthy LLMs Workshop @ ICLR 2024* | [Blog post](https://kempnerinstitute.harvard.edu/research/deeper-learning/watermarking-in-the-sand/)
 
 **[Feature Emergence via Margin Maximization: Case Studies in Algebraic Tasks](https://arxiv.org/abs/2311.07568)** <br>
 with Depen Morwani, Costin-Andrei Oncescu, Rosie Zhao, and Sham Kakade <br>
@@ -47,6 +47,13 @@ with Depen Morwani, Costin-Andrei Oncescu, Rosie Zhao, and Sham Kakade <br>
 with {{ item.coauthors }} <br>
 *{{ item.venue }}*
 {% endfor %}
+
+## Theses
+**[Combinatorial Tasks as Model Systems of Deep Learning](/assets/dissertation.pdf)** <br>
+PhD Thesis
+
+**[A Proof of Strassen’s Degree Bound for Homogeneous Arithmetic Circuits](/assets/senior_thesis.pdf)** <br>
+Undergraduate Senior Thesis
 
 ## Teaching
 <span>Spring 2021</span>{: class="date-brackets"} Teaching fellow for **CS 229br: Biology and Complexity** <br>
@@ -61,8 +68,8 @@ with Chara Podimata and Yonadav Shavit <br>
 *FAccT 2021*
 
 ## Recent talks
-<span>January 2024</span>{: class="date-brackets"} Watermarks in the Sand: Impossibility of Strong Watermarking for Generative Models <br>
-[NYC Crypto Day](https://nycryptoday.wordpress.com/)
+<span>January &amp; March 2024</span>{: class="date-brackets"} Watermarks in the Sand: Impossibility of Strong Watermarking for Generative Models <br>
+[NYC Crypto Day](https://nycryptoday.wordpress.com/2023/12/), [Boston Crypto Day](https://bostoncryptoday.wordpress.com/2024/02/)
 
 
 <span>February 2023</span>{: class="date-brackets"} [Studies in feature learning through the lens of sparse boolean functions](https://mpml.tecnico.ulisboa.pt/seminars?id=6910) <br>
@@ -82,5 +89,4 @@ New Technologies in Mathematics Seminar, Harvard Center of Mathematical Sciences
 
 ## Miscellaneae
 - [AI will change the world, but won’t take it over by playing "3-dimensional chess"](https://windowsontheory.org/2022/11/22/ai-will-change-the-world-but-wont-take-it-over-by-playing-3-dimensional-chess/), blog post with Boaz Barak
-- [Undergraduate Senior Thesis](/assets/thesis.pdf) on arithmetic circuit complexity
 - Expositions of [quantum Hamiltonian complexity](https://windowsontheory.org/2018/12/20/quantum-hamiltonian-complexity/) and [quantum money for knot theorists](/assets/money.pdf)
