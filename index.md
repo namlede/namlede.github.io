@@ -21,9 +21,10 @@ In the past, I've also worked on game theory and computational complexity theory
 
 ## Research
 
-**[Foundational Challenges in Assuring Alignment and Safety of Large Language Models](https://arxiv.org/abs/2404.09932)** <br>
-with Usman Anwar, David Krueger, and 35 others <br>
-*preprint* | [Webpage](https://llm-safety-challenges.github.io/)
+**[Transcendence: Generative Models Can Outperform The Experts That Train Them](https://arxiv.org/abs/2406.11741)** <br>
+with Edwin Zhang, Vincent Zhu, Naomi Saphra, Anat Kleiman, Milind Tambe, Sham M. Kakade, and Eran Malach
+ <br>
+*preprint* | [Blog post](https://kempnerinstitute.harvard.edu/research/deeper-learning/transcendence-generative-models-can-outperform-the-experts-that-train-them/)
 
 **[The Evolution of Statistical Induction Heads: In-Context Learning Markov Chains](https://arxiv.org/abs/2402.11004)** <br>
 with Ezra Edelman, Surbhi Goel, Eran Malach, and Nikolaos Tsilivis <br>
