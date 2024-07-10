@@ -26,10 +26,13 @@ with Edwin Zhang, Vincent Zhu, Naomi Saphra, Anat Kleiman, Milind Tambe, Sham M.
  <br>
 *preprint* | [Blog post](https://kempnerinstitute.harvard.edu/research/deeper-learning/transcendence-generative-models-can-outperform-the-experts-that-train-them/)
 
+**[Foundational Challenges in Assuring Alignment and Safety of Large Language Models](https://arxiv.org/abs/2404.09932)** <br>
+with Usman Anwar, David Krueger, and 35 others <br>
+*preprint* | [Webpage](https://llm-safety-challenges.github.io/)
+
 **[The Evolution of Statistical Induction Heads: In-Context Learning Markov Chains](https://arxiv.org/abs/2402.11004)** <br>
 with Ezra Edelman, Surbhi Goel, Eran Malach, and Nikolaos Tsilivis <br>
 *preprint* | [Blog post](https://unprovenalgos.github.io/statistical-induction-heads)
-
 
 **[Distinguishing the Knowable from the Unknowable with Language Models](https://arxiv.org/abs/2402.03563)** <br>
 with Gustaf Ahdritz, Tian Qin, Nikhil Vyas, and Boaz Barak <br>
