@@ -8,10 +8,10 @@ title: Home
 
 
 
-In the coming academic year, I will be joining Princeton University as a postdoctoral research fellow jointly affiliated with [Princeton Language and Intelligence (PLI)](https://pli.princeton.edu/) and the [Center for Information Technology Policy (CITP)](https://citp.princeton.edu/). This spring, I completed my PhD at Harvard, as a member of the [Machine Learning Foundations](https://mlfoundations.org/) and [Theory of Computation](https://toc.seas.harvard.edu/) groups. I was advised by [Sham Kakade](https://sham.seas.harvard.edu/) and [Leslie Valiant](http://people.seas.harvard.edu/~valiant/), and received a NSF Graduate Research Fellowship.  In summer 2021, I interned with the ML group at Microsoft Research NYC, where I worked with [Cyril Zhang](https://cyrilzhang.com/) and [Surbhi Goel](https://www.surbhigoel.com). Previously, I undergraduated in math at Princeton.
+This spring, I completed my PhD at Harvard, as a member of the [Machine Learning Foundations](https://mlfoundations.org/) and [Theory of Computation](https://toc.seas.harvard.edu/) groups. I was advised by [Sham Kakade](https://sham.seas.harvard.edu/) and [Leslie Valiant](http://people.seas.harvard.edu/~valiant/) (and, informally, by [Boaz Barak](https://www.boazbarak.org/)), and received a NSF Graduate Research Fellowship. In the summer of 2021, I interned with the ML group at Microsoft Research NYC, where I worked with [Cyril Zhang](https://cyrilzhang.com/) and [Surbhi Goel](https://www.surbhigoel.com). Previously, I undergraduated in math at Princeton.
 
 My research, which is currently focused on the scientific study of deep learning, is motivated by the following claims:
-- If we understand AI systems better, we will have a better shot at making them safer and foreseeing future technological developments.
+- If we understand AI systems better, we will have a better shot at making them safer, foreseeing future technological developments, and designing well-informed policies.
 - It is crucial to build understanding of cutting-edge methods, and for our insights to generalize across changes in algorithms and scale.
 - The shortest path to scientific understanding involves a blend of both theory and empirics, on both clean toy models and real messy systems.
 
