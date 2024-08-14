@@ -8,7 +8,7 @@ title: Home
 
 
 
-This spring, I completed my PhD at Harvard, as a member of the [Machine Learning Foundations](https://mlfoundations.org/) and [Theory of Computation](https://toc.seas.harvard.edu/) groups. I was advised by [Sham Kakade](https://sham.seas.harvard.edu/) and [Leslie Valiant](http://people.seas.harvard.edu/~valiant/) (and, informally, by [Boaz Barak](https://www.boazbarak.org/)), and received a NSF Graduate Research Fellowship. In the summer of 2021, I interned with the ML group at Microsoft Research NYC, where I worked with [Cyril Zhang](https://cyrilzhang.com/) and [Surbhi Goel](https://www.surbhigoel.com). Previously, I undergraduated in math at Princeton.
+This spring, I completed my PhD at Harvard, as a member of the [Machine Learning Foundations](https://mlfoundations.org/) and [Theory of Computation](https://toc.seas.harvard.edu/) groups. I was advised by [Sham Kakade](https://sham.seas.harvard.edu/) and [Leslie Valiant](http://people.seas.harvard.edu/~valiant/) (and was also mentored by [Boaz Barak](https://www.boazbarak.org/)), and received a NSF Graduate Research Fellowship. In the summer of 2021, I interned with the ML group at Microsoft Research NYC, where I worked with [Cyril Zhang](https://cyrilzhang.com/) and [Surbhi Goel](https://www.surbhigoel.com). Previously, I undergraduated in math at Princeton.
 
 My research, which is currently focused on the scientific study of deep learning, is motivated by the following claims:
 - If we understand AI systems better, we will have a better shot at making them safer, foreseeing future technological developments, and designing well-informed policies.
