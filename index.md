@@ -6,49 +6,49 @@ title: Home
 ![me](/assets/headshot.jpg)
 {: id="headshot"}
 
+I am an incoming inaugural [TechCongress AI Safety Fellow](https://www.techcongress.io/ai-safety-fellowship), placed for one year at the [US AI Safety Institute](https://www.nist.gov/aisi). I am based in Princeton, NJ, and after this fellowship I will be a [PLI](https://pli.princeton.edu/)-[CITP](https://citp.princeton.edu/) Postdoctoral Research Fellow at Princeton University.
 
+This spring, I completed my PhD at Harvard as a member of the [Machine Learning Foundations](https://mlfoundations.org/) and [Theory of Computation](https://toc.seas.harvard.edu/) groups. I was advised by [Sham Kakade](https://sham.seas.harvard.edu/) and [Leslie Valiant](http://people.seas.harvard.edu/~valiant/) (and was also mentored by [Boaz Barak](https://www.boazbarak.org/)), and received a NSF Graduate Research Fellowship. In the summer of 2021, I interned with the ML group at Microsoft Research NYC, where I worked with [Cyril Zhang](https://cyrilzhang.com/) and [Surbhi Goel](https://www.surbhigoel.com). Previously, I undergraduated in math at Princeton.
 
-This spring, I completed my PhD at Harvard, as a member of the [Machine Learning Foundations](https://mlfoundations.org/) and [Theory of Computation](https://toc.seas.harvard.edu/) groups. I was advised by [Sham Kakade](https://sham.seas.harvard.edu/) and [Leslie Valiant](http://people.seas.harvard.edu/~valiant/) (and was also mentored by [Boaz Barak](https://www.boazbarak.org/)), and received a NSF Graduate Research Fellowship. In the summer of 2021, I interned with the ML group at Microsoft Research NYC, where I worked with [Cyril Zhang](https://cyrilzhang.com/) and [Surbhi Goel](https://www.surbhigoel.com). Previously, I undergraduated in math at Princeton.
-
-My research, which is currently focused on the scientific study of deep learning, is motivated by the following claims:
+My PhD research was focused on the scientific study of deep learning, motivated by the following claims:
 - If we understand AI systems better, we will have a better shot at making them safer, foreseeing future technological developments, and designing well-informed policies.
 - It is crucial to build understanding of cutting-edge methods, and for our insights to generalize across changes in algorithms and scale.
 - The shortest path to scientific understanding involves a blend of both theory and empirics, on both clean toy models and real messy systems.
 
-In the past, I've also worked on game theory and computational complexity theory.
+I've also worked on game theory and computational complexity theory.
 
 <small> bedelman@g.harvard.edu | [Google Scholar](https://scholar.google.com/citations?user=mQSj2C0AAAAJ&hl=en) </small>
 
 ## Research
 
 **[Transcendence: Generative Models Can Outperform The Experts That Train Them](https://arxiv.org/abs/2406.11741)** <br>
-with Edwin Zhang, Vincent Zhu, Naomi Saphra, Anat Kleiman, Milind Tambe, Sham M. Kakade, and Eran Malach
+Edwin Zhang, Vincent Zhu, Naomi Saphra, Anat Kleiman, **BE**, Milind Tambe, Sham M. Kakade, and Eran Malach
  <br>
 *preprint* | [Blog post](https://kempnerinstitute.harvard.edu/research/deeper-learning/transcendence-generative-models-can-outperform-the-experts-that-train-them/)
 
 **[Foundational Challenges in Assuring Alignment and Safety of Large Language Models](https://arxiv.org/abs/2404.09932)** <br>
-with Usman Anwar, David Krueger, and 35 others <br>
-*preprint* | [Webpage](https://llm-safety-challenges.github.io/)
+Usman Anwar, Abulhair Saparov, Javier Rando, Daniel Paleka, Miles Turpin, Peter Hase, Ekdeep Singh Lubana, Erik Jenner, Stephen Casper, Oliver Sourbut, **BE**, Zhaowei Zhang, Mario Günther, Anton Korinek, Jose Hernandez-Orallo, and 27 others <br>
+*TMLR, 2024* | [Webpage](https://llm-safety-challenges.github.io/)
 
 **[The Evolution of Statistical Induction Heads: In-Context Learning Markov Chains](https://arxiv.org/abs/2402.11004)** <br>
-with Ezra Edelman, Surbhi Goel, Eran Malach, and Nikolaos Tsilivis <br>
+**BE**, Ezra Edelman, Surbhi Goel, Eran Malach, and Nikolaos Tsilivis <br>
 *preprint* | [Blog post](https://unprovenalgos.github.io/statistical-induction-heads)
 
 **[Distinguishing the Knowable from the Unknowable with Language Models](https://arxiv.org/abs/2402.03563)** <br>
-with Gustaf Ahdritz, Tian Qin, Nikhil Vyas, and Boaz Barak <br>
+Gustaf Ahdritz, Tian Qin, Nikhil Vyas, Boaz Barak, and **BE** <br>
 *ICML 2024* | [Blog post](https://kempnerinstitute.harvard.edu/research/deeper-learning/distinguishing-the-knowable-from-the-unknowable-with-language-models/)
 
 **[Watermarks in the Sand: Impossibility of Strong Watermarking for Generative Models](https://arxiv.org/abs/2311.04378)** <br>
-with Hanlin Zhang, Danilo Francati, Daniele Venturi, Giuseppe Ateniese, and Boaz Barak <br>
+Hanlin Zhang, **BE**, Danilo Francati, Daniele Venturi, Giuseppe Ateniese, and Boaz Barak <br>
 *ICML 2024, and Secure &amp; Trustworthy LLMs Workshop @ ICLR 2024* | [Blog post](https://kempnerinstitute.harvard.edu/research/deeper-learning/watermarking-in-the-sand/)
 
 **[Feature Emergence via Margin Maximization: Case Studies in Algebraic Tasks](https://arxiv.org/abs/2311.07568)** <br>
-with Depen Morwani, Costin-Andrei Oncescu, Rosie Zhao, and Sham Kakade <br>
+Depen Morwani, **BE** Costin-Andrei Oncescu, Rosie Zhao, and Sham Kakade <br>
 *ICLR 2024 (spotlight)* | [Blog post](https://kempnerinstitute.harvard.edu/research/deeper-learning/where-do-features-come-from/)
 
 {% for item in site.data.pubs %}
 **[{{ item.title }}]({{ item.link }})** <br>
-with {{ item.coauthors }} <br>
+{{ item.coauthors }} <br>
 *{{ item.venue }}*
 {% endfor %}
 
