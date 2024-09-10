@@ -4,36 +4,36 @@
 #   link: https://arxiv.org/abs/2311.04378
 
 - title: "Pareto Frontiers in Deep Feature Learning: Data, Compute, Width, and Luck"
-  coauthors: **BE**, Surbhi Goel, Sham Kakade, Eran Malach, and Cyril Zhang
+  coauthors: <strong>BE</strong>, Surbhi Goel, Sham Kakade, Eran Malach, and Cyril Zhang
   venue: NeurIPS 2023 (spotlight)
   link: https://arxiv.org/abs/2309.03800
 
 - title: "Hidden Progress in Deep Learning: SGD Learns Parities Near the Computational Limit"
-  coauthors: Boaz Barak, **BE**, Surbhi Goel, Sham Kakade, Eran Malach, and Cyril Zhang
+  coauthors: Boaz Barak, <strong>BE</strong>, Surbhi Goel, Sham Kakade, Eran Malach, and Cyril Zhang
   venue: NeurIPS 2022
   link: https://arxiv.org/abs/2207.08799
 
 - title: Inductive Biases and Variable Creation in Self-Attention Mechanisms
-  coauthors: **BE**, Surbhi Goel, Sham Kakade, and Cyril Zhang
+  coauthors: <strong>BE</strong>, Surbhi Goel, Sham Kakade, and Cyril Zhang
   venue: ICML 2022
   link: https://arxiv.org/abs/2110.10090
 
 - title: The Multiplayer Colonel Blotto Game
-  coauthors: Enric Boix-Adserà, **BE**, and Siddhartha Jayanti
+  coauthors: Enric Boix-Adserà, <strong>BE</strong>, and Siddhartha Jayanti
   venue: Games and Economic Behavior (full version), EC 2020 (extended abstract)
   link: https://arxiv.org/abs/2002.05240
 
 - title: Causal Strategic Linear Regression
-  coauthors: Yonadav Shavit, **BE**, and Brian Axelrod
+  coauthors: Yonadav Shavit, <strong>BE</strong>, and Brian Axelrod
   venue: ICML 2020
   link: https://arxiv.org/abs/2002.10066
 
 - title: SGD on Neural Networks Learns Functions of Increasing Complexity
-  coauthors: Preetum Nakkiran, Gal Kaplun, Dimitris Kalimeris, Tristan Yang, **BE**, Fred Zhang, and Boaz Barak
+  coauthors: Preetum Nakkiran, Gal Kaplun, Dimitris Kalimeris, Tristan Yang, <strong>BE</strong>, Fred Zhang, and Boaz Barak
   venue:  NeurIPS 2019 (spotlight)
   link: https://arxiv.org/abs/1905.11604
 
 - title: Matrix Rigidity and the Croot-Lev-Pach Lemma
-  coauthors: **BE**, Zeev Dvir
+  coauthors: <strong>BE</strong>, Zeev Dvir
   venue: Theory of Computing, 2019
   link: http://dx.doi.org/10.4086/toc.2019.v015a008
