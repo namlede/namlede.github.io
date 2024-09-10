@@ -43,7 +43,7 @@ Hanlin Zhang, **BE**, Danilo Francati, Daniele Venturi, Giuseppe Ateniese, and B
 *ICML 2024, and Secure &amp; Trustworthy LLMs Workshop @ ICLR 2024* | [Blog post](https://kempnerinstitute.harvard.edu/research/deeper-learning/watermarking-in-the-sand/)
 
 **[Feature Emergence via Margin Maximization: Case Studies in Algebraic Tasks](https://arxiv.org/abs/2311.07568)** <br>
-Depen Morwani, **BE** Costin-Andrei Oncescu, Rosie Zhao, and Sham Kakade <br>
+Depen Morwani, **BE**, Costin-Andrei Oncescu, Rosie Zhao, and Sham Kakade <br>
 *ICLR 2024 (spotlight)* | [Blog post](https://kempnerinstitute.harvard.edu/research/deeper-learning/where-do-features-come-from/)
 
 {% for item in site.data.pubs %}
