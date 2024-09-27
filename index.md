@@ -24,15 +24,15 @@ I've also worked on game theory and computational complexity theory.
 **[Transcendence: Generative Models Can Outperform The Experts That Train Them](https://arxiv.org/abs/2406.11741)** <br>
 Edwin Zhang, Vincent Zhu, Naomi Saphra, Anat Kleiman, **BE**, Milind Tambe, Sham M. Kakade, and Eran Malach
  <br>
-*preprint* | [Blog post](https://kempnerinstitute.harvard.edu/research/deeper-learning/transcendence-generative-models-can-outperform-the-experts-that-train-them/)
+*NeurIPS 2024* | [Blog post](https://kempnerinstitute.harvard.edu/research/deeper-learning/transcendence-generative-models-can-outperform-the-experts-that-train-them/)
+
+**[The Evolution of Statistical Induction Heads: In-Context Learning Markov Chains](https://arxiv.org/abs/2402.11004)** <br>
+**BE**, Ezra Edelman, Surbhi Goel, Eran Malach, and Nikolaos Tsilivis <br>
+*NeurIPS 2024* | [Blog post](https://unprovenalgos.github.io/statistical-induction-heads)
 
 **[Foundational Challenges in Assuring Alignment and Safety of Large Language Models](https://arxiv.org/abs/2404.09932)** <br>
 Usman Anwar, Abulhair Saparov, Javier Rando, Daniel Paleka, Miles Turpin, Peter Hase, Ekdeep Singh Lubana, Erik Jenner, Stephen Casper, Oliver Sourbut, **BE**, Zhaowei Zhang, Mario Günther, Anton Korinek, Jose Hernandez-Orallo, and 27 others <br>
 *TMLR, 2024* | [Webpage](https://llm-safety-challenges.github.io/)
-
-**[The Evolution of Statistical Induction Heads: In-Context Learning Markov Chains](https://arxiv.org/abs/2402.11004)** <br>
-**BE**, Ezra Edelman, Surbhi Goel, Eran Malach, and Nikolaos Tsilivis <br>
-*preprint* | [Blog post](https://unprovenalgos.github.io/statistical-induction-heads)
 
 **[Distinguishing the Knowable from the Unknowable with Language Models](https://arxiv.org/abs/2402.03563)** <br>
 Gustaf Ahdritz, Tian Qin, Nikhil Vyas, Boaz Barak, and **BE** <br>
