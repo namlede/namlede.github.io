@@ -6,7 +6,7 @@ title: Home
 ![me](/assets/headshot.jpg)
 {: id="headshot"}
 
-I am an inaugural [TechCongress AI Safety Fellow](https://www.techcongress.io/ai-safety-fellowship), placed for one year at the [US AI Safety Institute](https://www.nist.gov/aisi) to work on federal AI policy and advance the science of AI safety. I am based in Princeton, NJ, and after this fellowship I will be a [PLI](https://pli.princeton.edu/)-[CITP](https://citp.princeton.edu/) Postdoctoral Research Fellow at Princeton University.
+I am a member of technical staff at the [U.S. AI Safety Institute](https://www.nist.gov/aisi), working on federal AI policy and advancing the science of AI safety. I'm based in Princeton, NJ.
 
 This spring, I completed my PhD at Harvard as a member of the [Machine Learning Foundations](https://mlfoundations.org/) and [Theory of Computation](https://toc.seas.harvard.edu/) groups. I was advised by [Sham Kakade](https://sham.seas.harvard.edu/) and [Leslie Valiant](http://people.seas.harvard.edu/~valiant/) (and was also mentored by [Boaz Barak](https://www.boazbarak.org/)), and received a NSF Graduate Research Fellowship. In the summer of 2021, I interned with the ML group at Microsoft Research NYC, where I worked with [Cyril Zhang](https://cyrilzhang.com/) and [Surbhi Goel](https://www.surbhigoel.com). Previously, I undergraduated in math at Princeton.
 
