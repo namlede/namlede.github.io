@@ -6,9 +6,9 @@ title: Home
 ![me](/assets/headshot.jpg)
 {: id="headshot"}
 
-I am a member of technical staff at the [U.S. AI Safety Institute](https://www.nist.gov/aisi), working on federal AI policy and advancing the science of AI safety. I'm based in Princeton, NJ.
+I am a member of technical staff at the [U.S. AI Safety Institute](https://www.nist.gov/aisi), leading the agent security team, and supported by a TechCongress AI Safety fellowship. I'm based in Princeton, NJ.
 
-This spring, I completed my PhD at Harvard as a member of the [Machine Learning Foundations](https://mlfoundations.org/) and [Theory of Computation](https://toc.seas.harvard.edu/) groups. I was advised by [Sham Kakade](https://sham.seas.harvard.edu/) and [Leslie Valiant](http://people.seas.harvard.edu/~valiant/) (and was also mentored by [Boaz Barak](https://www.boazbarak.org/)), and received a NSF Graduate Research Fellowship. In the summer of 2021, I interned with the ML group at Microsoft Research NYC, where I worked with [Cyril Zhang](https://cyrilzhang.com/) and [Surbhi Goel](https://www.surbhigoel.com). Previously, I undergraduated in math at Princeton.
+Last spring, I completed my PhD at Harvard as a member of the [Machine Learning Foundations](https://mlfoundations.org/) and [Theory of Computation](https://toc.seas.harvard.edu/) groups. I was advised by [Sham Kakade](https://sham.seas.harvard.edu/) and [Leslie Valiant](http://people.seas.harvard.edu/~valiant/) (and was also mentored by [Boaz Barak](https://www.boazbarak.org/)), and received a NSF Graduate Research Fellowship. In the summer of 2021, I interned with the ML group at Microsoft Research NYC, where I worked with [Cyril Zhang](https://cyrilzhang.com/) and [Surbhi Goel](https://www.surbhigoel.com). Previously, I undergraduated in math at Princeton.
 
 My PhD research was focused on the scientific study of deep learning, motivated by the following claims:
 - If we understand AI systems better, we will have a better shot at making them safer, foreseeing future technological developments, and designing well-informed policies.
@@ -17,7 +17,7 @@ My PhD research was focused on the scientific study of deep learning, motivated 
 
 I've also worked on game theory and computational complexity theory.
 
-<small> bedelman@g.harvard.edu | [Google Scholar](https://scholar.google.com/citations?user=mQSj2C0AAAAJ&hl=en) </small>
+<small> benedelman100@gmail.com | [Google Scholar](https://scholar.google.com/citations?user=mQSj2C0AAAAJ&hl=en) | [LinkedIn](https://www.linkedin.com/in/benjamin-edelman-24a610ab) </small>
 
 ## Research
 
@@ -90,7 +90,3 @@ Alg-ml seminar, Princeton University
 
 <span>Feb 2022</span>{: class="date-brackets"} [Towards demystifying transformers & attention](https://cmsa.fas.harvard.edu/event/2-9-2022-new-technologies-in-mathematics-seminar/) <br>
 New Technologies in Mathematics Seminar, Harvard Center of Mathematical Sciences and Applications
-
-## Miscellaneae
-- [AI will change the world, but won’t take it over by playing "3-dimensional chess"](https://windowsontheory.org/2022/11/22/ai-will-change-the-world-but-wont-take-it-over-by-playing-3-dimensional-chess/), blog post with Boaz Barak
-- Expositions of [quantum Hamiltonian complexity](https://windowsontheory.org/2018/12/20/quantum-hamiltonian-complexity/) and [quantum money for knot theorists](/assets/money.pdf)
