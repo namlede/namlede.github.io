@@ -6,7 +6,7 @@ title: Home
 ![me](/assets/headshot.jpg)
 {: id="headshot"}
 
-I am a member of technical staff at the [U.S. Center for AI Standards and Innovation](https://www.nist.gov/caisi) (CAISI), leading the agent security team, and supported by a TechCongress AI Safety fellowship. I'm based in Princeton, NJ.
+I am a member of technical staff at the [U.S. Center for AI Standards and Innovation](https://www.nist.gov/caisi) (CAISI), leading the Agent Security team, and supported by a TechCongress AI Safety fellowship. I'm based in Princeton, NJ.
 
 Last spring, I completed my PhD at Harvard as a member of the [Machine Learning Foundations](https://mlfoundations.org/) and [Theory of Computation](https://toc.seas.harvard.edu/) groups. I was advised by [Sham Kakade](https://sham.seas.harvard.edu/) and [Leslie Valiant](http://people.seas.harvard.edu/~valiant/) (and was also mentored by [Boaz Barak](https://www.boazbarak.org/)), and received a NSF Graduate Research Fellowship. In the summer of 2021, I interned with the ML group at Microsoft Research NYC, where I worked with [Cyril Zhang](https://cyrilzhang.com/) and [Surbhi Goel](https://www.surbhigoel.com). Previously, I undergraduated in math at Princeton.
 
