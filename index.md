@@ -6,18 +6,23 @@ title: Home
 ![me](/assets/headshot.jpg)
 {: id="headshot"}
 
-I am a member of technical staff at the [U.S. Center for AI Standards and Innovation](https://www.nist.gov/caisi) (CAISI), leading the Agent Security team, and supported by a [TechCongress](https://techcongress.io/) AI Security fellowship. I'm based in Princeton, NJ.
+I founded and lead the Agent Security team at the [Center for AI Standards and Innovation](https://www.nist.gov/caisi/) (CAISI), a hub of AI expertise in the U.S. government. Our team does research, evaluations, red teaming, and standards development to measure and improve the security of advanced AI systems.
 
-Last spring, I completed my PhD at Harvard as a member of the [Machine Learning Foundations](https://mlfoundations.org/) and [Theory of Computation](https://toc.seas.harvard.edu/) groups. I was advised by [Sham Kakade](https://sham.seas.harvard.edu/) and [Leslie Valiant](http://people.seas.harvard.edu/~valiant/) (and was also mentored by [Boaz Barak](https://www.boazbarak.org/)), and received a NSF Graduate Research Fellowship. In the summer of 2021, I interned with the ML group at Microsoft Research NYC, where I worked with [Cyril Zhang](https://cyrilzhang.com/) and [Surbhi Goel](https://www.surbhigoel.com). Previously, I undergraduated in math at Princeton.
+Some things we've been up to:	
+- [agent hijacking evaluations](https://www.nist.gov/news-events/news/2025/01/technical-blog-strengthening-ai-agent-hijacking-evaluations)
+- finding vulnerabilities and exploits for a [variety](https://openai.com/index/us-caisi-uk-aisi-ai-update/) of [AI systems](https://www.anthropic.com/news/strengthening-our-safeguards-through-collaboration-with-us-caisi-and-uk-aisi)
+- studying what happens when models [cheat on agent evals](https://www.nist.gov/caisi/cheating-ai-agent-evaluations)
+- [request for information](https://www.nist.gov/news-events/news/2026/01/caisi-issues-request-information-about-securing-ai-agent-systems) on agent security
+	
+I live in Princeton, NJ, where I am a Princeton University [AI Lab](https://ai.princeton.edu/ai-lab) Policy Fellow. I joined government in 2024 as a [TechCongress](https://techcongress.io/) AI Security Fellow after my PhD.
 
-My PhD research was focused on the scientific study of deep learning, motivated by the following claims:
-- If we understand AI systems better, we will have a better shot at making them safer, foreseeing future technological developments, and designing well-informed policies.
-- It is crucial to build understanding of cutting-edge methods, and for our insights to generalize across changes in algorithms and scale.
-- The shortest path to scientific understanding involves a blend of both theory and empirics, on both clean toy models and real messy systems.
+During my PhD in Computer Science at Harvard, I co-founded the [ML Foundations](https://mlfoundations.org/) research group and was supported by a NSF Graduate Research Fellowship. My advisors were [Sham Kakade](https://shamulent.github.io/) and [Leslie Valiant](https://people.seas.harvard.edu/~valiant/); I was also privileged to have [Boaz Barak](https://www.boazbarak.org/), [Cyril Zhang](https://cyrilzhang.com/), and [Surbhi Goel](https://www.surbhigoel.com/) as mentors.
 
-I've also worked on game theory and computational complexity theory.
+One theme of my doctoral research was the interplay between machine learning and strategic incentives. Another theme—the subject of my [dissertation](/assets/dissertation.pdf)—was using simple, mathematically well-defined tasks as model systems to study training dynamics and inductive biases in neural networks.
 
-<small> benedelman100@gmail.com | [Google Scholar](https://scholar.google.com/citations?user=mQSj2C0AAAAJ&hl=en) | [LinkedIn](https://www.linkedin.com/in/benjamin-edelman-24a610ab) </small>
+Before that, I undergraduated in math at Princeton and did computational complexity research.
+
+<small> benedelman100@gmail.com | [Google Scholar](https://scholar.google.com/citations?user=mQSj2C0AAAAJ&hl=en) | [LinkedIn](https://www.linkedin.com/in/benjamin-edelman-24a610ab) | [X](https://x.com/EdelmanBen) </small>
 
 ## Research
 
@@ -71,7 +76,7 @@ Gave three lectures on "Mysteries of Generalization in Deep Learning"
 with Chara Podimata and Yonadav Shavit <br>
 *FAccT 2021*
 
-## Recent talks
+## Talks
 <span>January &amp; March 2024</span>{: class="date-brackets"} Watermarks in the Sand: Impossibility of Strong Watermarking for Generative Models <br>
 [NYC Crypto Day](https://nycryptoday.wordpress.com/2023/12/), [Boston Crypto Day](https://bostoncryptoday.wordpress.com/2024/02/)
 
